@@ -1,4 +1,4 @@
-# ✨Wiredelta Backend Sample Tasks ✨
+# ✨Wiredelta Fullstack Sample Tasks ✨
 ## Project : Pokemon Manager API
 
 ### 🚨 Requirements
@@ -19,7 +19,7 @@ Create the templates with the following desings to complete the task bellow
 
 ### 🏗️ Tasks
 - Create an API which will have the following features:
-  - Basic authentication
+  - Basic authentication (You need to be logged in to add/edit/delete)
   - A list of paginated Pokemons (each item should contain: name, height, weight and image). The result should be:
     - sortable by name, height and weight;
     - filterable by name, height range and weight range.
