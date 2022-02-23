@@ -2,9 +2,10 @@
 ## Project : Pokemon Manager API
 
 ### 🚨 Requirements
+- FRONTEND FRAMEWORK: ReactJS (Unless otherwise agreed)
 - DATABASE : **PostgreSQL**
 - LANGUAGE : **TypeScript (Node.js)**
-- FRAMEWORKS : **[Fastify](https://www.npmjs.com/package/fastify)** & **[Prisma (ORM)](https://www.prisma.io/)**
+- BACKEND FRAMEWORKS : **[Fastify](https://www.npmjs.com/package/fastify)** & **[Prisma (ORM)](https://www.prisma.io/)**
 
 ### ℹ️ Notes
 The scope of this sample project come in two parts: 
