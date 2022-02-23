@@ -15,7 +15,7 @@ The orginal Pokemon data is found at [PokeAPI](https://pokeapi.co/docs/v2)
 
 ### 🖌️ Designs
 Create the templates with the following desings to complete the task bellow
-**[LINK TO DESIGNS](https://xd.adobe.com/view/1272d0ac-14ff-4397-a0a4-9a3b766628f0-4721/)**
+**[LINK TO DESIGNS](https://xd.adobe.com/view/a378e86b-36b5-4514-a049-f60fa55b2563-f62b/)**
 
 ### 🏗️ Tasks
 - Create an API which will have the following features:
